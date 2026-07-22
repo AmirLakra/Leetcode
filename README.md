@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/AmirLakra/Leetcode/tree/master/0002-add-two-numbers) |
+| [1903-largest-odd-number-in-string](https://github.com/AmirLakra/Leetcode/tree/master/1903-largest-odd-number-in-string) |
 ## Recursion
 |  |
 | ------- |
@@ -20,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/AmirLakra/Leetcode/tree/master/0020-valid-parentheses) |
+| [1903-largest-odd-number-in-string](https://github.com/AmirLakra/Leetcode/tree/master/1903-largest-odd-number-in-string) |
 ## Stack
 |  |
 | ------- |
@@ -44,4 +46,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1901-find-a-peak-element-ii](https://github.com/AmirLakra/Leetcode/tree/master/1901-find-a-peak-element-ii) |
+## Greedy
+|  |
+| ------- |
+| [1903-largest-odd-number-in-string](https://github.com/AmirLakra/Leetcode/tree/master/1903-largest-odd-number-in-string) |
 <!---LeetCode Topics End-->
