@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/AmirLakra/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/AmirLakra/Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/AmirLakra/Leetcode/tree/master/0162-find-peak-element) |
+| [0198-house-robber](https://github.com/AmirLakra/Leetcode/tree/master/0198-house-robber) |
 | [0540-single-element-in-a-sorted-array](https://github.com/AmirLakra/Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0875-koko-eating-bananas](https://github.com/AmirLakra/Leetcode/tree/master/0875-koko-eating-bananas) |
 | [1901-find-a-peak-element-ii](https://github.com/AmirLakra/Leetcode/tree/master/1901-find-a-peak-element-ii) |
@@ -110,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/AmirLakra/Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0070-climbing-stairs](https://github.com/AmirLakra/Leetcode/tree/master/0070-climbing-stairs) |
+| [0198-house-robber](https://github.com/AmirLakra/Leetcode/tree/master/0198-house-robber) |
 | [0509-fibonacci-number](https://github.com/AmirLakra/Leetcode/tree/master/0509-fibonacci-number) |
 ## Memoization
 |  |
