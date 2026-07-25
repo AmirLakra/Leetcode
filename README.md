@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/AmirLakra/Leetcode/tree/master/0002-add-two-numbers) |
 | [0013-roman-to-integer](https://github.com/AmirLakra/Leetcode/tree/master/0013-roman-to-integer) |
+| [0062-unique-paths](https://github.com/AmirLakra/Leetcode/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/AmirLakra/Leetcode/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/AmirLakra/Leetcode/tree/master/0509-fibonacci-number) |
 | [1903-largest-odd-number-in-string](https://github.com/AmirLakra/Leetcode/tree/master/1903-largest-odd-number-in-string) |
@@ -111,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/AmirLakra/Leetcode/tree/master/0005-longest-palindromic-substring) |
+| [0062-unique-paths](https://github.com/AmirLakra/Leetcode/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/AmirLakra/Leetcode/tree/master/0070-climbing-stairs) |
 | [0198-house-robber](https://github.com/AmirLakra/Leetcode/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/AmirLakra/Leetcode/tree/master/0213-house-robber-ii) |
@@ -120,4 +122,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0070-climbing-stairs](https://github.com/AmirLakra/Leetcode/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/AmirLakra/Leetcode/tree/master/0509-fibonacci-number) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/AmirLakra/Leetcode/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
