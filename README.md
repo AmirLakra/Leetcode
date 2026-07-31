@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0014-longest-common-prefix](https://github.com/AmirLakra/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0063-unique-paths-ii](https://github.com/AmirLakra/Leetcode/tree/master/0063-unique-paths-ii) |
+| [0090-subsets-ii](https://github.com/AmirLakra/Leetcode/tree/master/0090-subsets-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/AmirLakra/Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/AmirLakra/Leetcode/tree/master/0162-find-peak-element) |
 | [0198-house-robber](https://github.com/AmirLakra/Leetcode/tree/master/0198-house-robber) |
@@ -160,4 +161,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/AmirLakra/Leetcode/tree/master/0022-generate-parentheses) |
+| [0090-subsets-ii](https://github.com/AmirLakra/Leetcode/tree/master/0090-subsets-ii) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0090-subsets-ii](https://github.com/AmirLakra/Leetcode/tree/master/0090-subsets-ii) |
 <!---LeetCode Topics End-->
