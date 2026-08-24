@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0062-unique-paths](https://github.com/AmirLakra/Leetcode/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/AmirLakra/Leetcode/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/AmirLakra/Leetcode/tree/master/0509-fibonacci-number) |
+| [1872-stone-game-viii](https://github.com/AmirLakra/Leetcode/tree/master/1872-stone-game-viii) |
 | [1903-largest-odd-number-in-string](https://github.com/AmirLakra/Leetcode/tree/master/1903-largest-odd-number-in-string) |
 | [1922-count-good-numbers](https://github.com/AmirLakra/Leetcode/tree/master/1922-count-good-numbers) |
 | [1927-sum-game](https://github.com/AmirLakra/Leetcode/tree/master/1927-sum-game) |
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/AmirLakra/Leetcode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/AmirLakra/Leetcode/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1539-kth-missing-positive-number](https://github.com/AmirLakra/Leetcode/tree/master/1539-kth-missing-positive-number) |
+| [1872-stone-game-viii](https://github.com/AmirLakra/Leetcode/tree/master/1872-stone-game-viii) |
 | [1901-find-a-peak-element-ii](https://github.com/AmirLakra/Leetcode/tree/master/1901-find-a-peak-element-ii) |
 | [2104-sum-of-subarray-ranges](https://github.com/AmirLakra/Leetcode/tree/master/2104-sum-of-subarray-ranges) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/AmirLakra/Leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -198,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0213-house-robber-ii](https://github.com/AmirLakra/Leetcode/tree/master/0213-house-robber-ii) |
 | [0509-fibonacci-number](https://github.com/AmirLakra/Leetcode/tree/master/0509-fibonacci-number) |
 | [0907-sum-of-subarray-minimums](https://github.com/AmirLakra/Leetcode/tree/master/0907-sum-of-subarray-minimums) |
+| [1872-stone-game-viii](https://github.com/AmirLakra/Leetcode/tree/master/1872-stone-game-viii) |
 ## Memoization
 |  |
 | ------- |
@@ -261,8 +264,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0930-binary-subarrays-with-sum](https://github.com/AmirLakra/Leetcode/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/AmirLakra/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/AmirLakra/Leetcode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
+| [1872-stone-game-viii](https://github.com/AmirLakra/Leetcode/tree/master/1872-stone-game-viii) |
 ## Game Theory
 |  |
 | ------- |
+| [1872-stone-game-viii](https://github.com/AmirLakra/Leetcode/tree/master/1872-stone-game-viii) |
 | [1927-sum-game](https://github.com/AmirLakra/Leetcode/tree/master/1927-sum-game) |
+## Minimax
+|  |
+| ------- |
+| [1872-stone-game-viii](https://github.com/AmirLakra/Leetcode/tree/master/1872-stone-game-viii) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [1872-stone-game-viii](https://github.com/AmirLakra/Leetcode/tree/master/1872-stone-game-viii) |
 <!---LeetCode Topics End-->
