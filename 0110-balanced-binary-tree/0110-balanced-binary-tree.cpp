@@ -8,12 +8,10 @@ public:
         int left = height(root->left);
         int right = height(root->right);
 
-        // If either subtree is unbalanced
         if (left == -1 || right == -1) {
             return -1;
         }
 
-        // Current node is unbalanced
         if (abs(left - right) > 1) {
             return -1;
         }
