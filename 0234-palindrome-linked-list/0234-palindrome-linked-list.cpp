@@ -10,43 +10,36 @@
  */
 class Solution {
 public:
+    ListNode* reverse(ListNode* head){
+        ListNode* prev = NULL;
+        ListNode* curr = head;
+        while(curr != NULL){
+            ListNode* next = curr->next;
+            curr->next = prev;
+            prev = curr;
+            curr = next;
+        }
+        return prev;
+    }
+
     bool isPalindrome(ListNode* head) {
-        if (!head || !head->next) return true;
+        if(head == NULL || head->next == NULL)
+        return true;
         ListNode* slow = head;
         ListNode* fast = head;
-        while (fast->next != nullptr && fast->next->next != nullptr) {
+        while(fast->next != NULL && fast->next->next != NULL){
             slow = slow->next;
             fast = fast->next->next;
         }
-        ListNode* secondHalfHead = reverseList(slow->next);
-        ListNode* p1 = head;
-        ListNode* p2 = secondHalfHead;
-        bool isPalin = true;
-
-        while (p2 != nullptr) {
-            if (p1->val != p2->val) {
-                isPalin = false;
-                break;
+        ListNode* second = reverse(slow->next);
+        ListNode* first = head;
+        while(second != NULL){
+            if(first->val != second->val){
+                return false;
             }
-            p1 = p1->next;
-            p2 = p2->next;
+            first = first->next;
+            second = second->next;
         }
-        slow->next = reverseList(secondHalfHead);
-
-        return isPalin;
-    }
-
-private:
-    ListNode* reverseList(ListNode* head) {
-        ListNode* prev = nullptr;
-        ListNode* curr = head;
-
-        while (curr != nullptr) {
-            ListNode* nextTemp = curr->next;
-            curr->next = prev;
-            prev = curr;
-            curr = nextTemp;
-        }
-        return prev;
+        return true;
     }
 };
