@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/AmirLakra/Leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1903-largest-odd-number-in-string](https://github.com/AmirLakra/Leetcode/tree/master/1903-largest-odd-number-in-string) |
 | [1927-sum-game](https://github.com/AmirLakra/Leetcode/tree/master/1927-sum-game) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/AmirLakra/Leetcode/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/AmirLakra/Leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Stack
 |  |
@@ -298,6 +299,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0735-asteroid-collision](https://github.com/AmirLakra/Leetcode/tree/master/0735-asteroid-collision) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/AmirLakra/Leetcode/tree/master/2243-calculate-digit-sum-of-a-string) |
 ## Enumeration
 |  |
 | ------- |
